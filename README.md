@@ -48,7 +48,7 @@ The Bash script should output a summary report containing identified patterns an
 
 
 
-### Bash script startup code.
+### 🏁🏁🏁🏁 Bash script startup code.
 
 
 ```bash
@@ -101,14 +101,14 @@ analyze_traffic
 
 ----------------------------------
 
-#### Expected Input:
+#### 🗒️ 🗒️ 🗒️ 🗒️ Expected Input:
 
 Suppose you have a Wireshark pcap file named network_traffic.pcap containing a mix of HTTP and HTTPS traffic.
 
 
 
 
-#### Expected Output:
+#### 🗒️ 🗒️ 🗒️ 🗒️Expected Output:
 
 ```txt
 ----- Network Traffic Analysis Report -----

@@ -3,8 +3,8 @@
 # Bash Script to Analyze Network Traffic
 
 # Input: Path to the Wireshark pcap file
-pcap_file=/home/ubuntu/Documents/Linux_Projects/Bash+Network/protocols.pcap
-
+echo "Enter the path to your pcap file: "
+read pcap_file
 # Function to extract information from the pcap file
 analyze_traffic() {
     # Use tshark or similar commands for packet analysis.
